@@ -5,6 +5,7 @@
 - [指定した範囲の値からなるn個の要素のスライスを列挙する](https://gist.github.com/ynzwtks/2e7d20473b9452da5907f80e316ff978)<br>
 - [nextPermutation()を呼び出すクロージャーを返す](https://gist.github.com/ynzwtks/33e1ff915ddce3ae8e2c8ee0fec4715b)<br>
 - [n個の要素で合計がsとなるスライスの組み合わせを返す](https://gist.github.com/ynzwtks/05bd5756443345ce7f25af6cf03599a2)<br>
+- [部分列のMod和をとり、その部分列を合計maxCnt個列挙する](https://gist.github.com/ynzwtks/d88224b3235721524cf9ce2791f37c2c)<br>
 
 ### グルーピング
 - [単調増加のスライスで隣合う要素の差がd以下のものをグルーピングし開始/終了位置を返す](https://gist.github.com/ynzwtks/84f2a0b0876f047eb0e99d60d127c6df)<br>
