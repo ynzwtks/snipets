@@ -19,4 +19,5 @@
 - [bitが1位置についてスライスの和を取る](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
 - [指定した範囲に含まれるbit1の数をカウントする](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
 
-### grid操作
+### ２次元累積和
+- [2次元累積和のadd(y,x)とrangeSum(y,xの閉開区間)のクロージャーを返す](https://gist.github.com/ynzwtks/f27cc5cc757e53620495abe713fa5f0e)<br>
