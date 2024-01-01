@@ -24,3 +24,6 @@
 ### ２次元累積和
 - [2次元累積和のadd(y,x)とrangeSum(y,xの閉開区間)のクロージャーを返す](https://gist.github.com/ynzwtks/f27cc5cc757e53620495abe713fa5f0e)<br>
 - [2次元BITによる累積和](https://gist.github.com/ynzwtks/6991a45382ec8fd1973267ce30a468a8)<br>
+
+### geometry
+- [２次元座標のマンハッタン距離の最大値を求める](https://gist.github.com/ynzwtks/0bcb13015a756eb3eebc46b826be612b)<br>
