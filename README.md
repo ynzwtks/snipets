@@ -22,9 +22,10 @@
 - [bitが1位置についてスライスの和を取る](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
 - [指定した範囲に含まれるbit1の数をカウントする](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
 
-### ２次元累積和
+### Query
+- [index付き区間最大(最小)値取得と更新](https://gist.github.com/ynzwtks/08d5e4b1d410c321749d5c4462303887)<br>
 - [2次元累積和のadd(y,x)とrangeSum(y,xの閉開区間)のクロージャーを返す](https://gist.github.com/ynzwtks/f27cc5cc757e53620495abe713fa5f0e)<br>
 - [2次元BITによる累積和](https://gist.github.com/ynzwtks/6991a45382ec8fd1973267ce30a468a8)<br>
 
-### geometry
+### Geometry
 - [２次元座標のマンハッタン距離の最大値を求める](https://gist.github.com/ynzwtks/0bcb13015a756eb3eebc46b826be612b)<br>
