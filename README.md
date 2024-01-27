@@ -34,5 +34,5 @@
 
 ### Geometry
 - [２次元座標のマンハッタン距離の最大値を求める](https://gist.github.com/ynzwtks/0bcb13015a756eb3eebc46b826be612b)<br>
-
+- [直線上にある区間の交差判定](https://gist.github.com/ynzwtks/17d6ca0c41a03680e22beeae8353c0de)<br>
 
