@@ -3,7 +3,7 @@
 ## セグメント木
 - [双対セグメント木(区間更新(or 区間加算)、点取得)](https://gist.github.com/ynzwtks/4eda2432530318f8e591c9b30b2ccd82)<br>
 - [ロリハOnセグメント木(点更新可能)](https://gist.github.com/ynzwtks/8cfe266bea7570ab06dc8a777ba9bd42)<br>
-- [index付きRMQ/RSQ](https://gist.github.com/ynzwtks/08d5e4b1d410c321749d5c4462303887)<br>
+- [index付きRMQ](https://gist.github.com/ynzwtks/08d5e4b1d410c321749d5c4462303887)<br>
 
 ### パターン列挙
 - [nビットのうち、ビット1がk個となる値のパターンを列挙する](https://gist.github.com/ynzwtks/604549c4ad18cb1ae0c1456957876756)<br>
