@@ -1,5 +1,10 @@
 # 競プロ用スニペット集(go)
 
+## セグメント木
+- [双対セグメント木(区間更新(or 区間加算)、点取得)](https://gist.github.com/ynzwtks/4eda2432530318f8e591c9b30b2ccd82)<br>
+- [ロリハOnセグメント木(点更新可能)](https://gist.github.com/ynzwtks/8cfe266bea7570ab06dc8a777ba9bd42)<br>
+- [index付きRMQ/RSQ](https://gist.github.com/ynzwtks/08d5e4b1d410c321749d5c4462303887)<br>
+
 ### パターン列挙
 - [nビットのうち、ビット1がk個となる値のパターンを列挙する](https://gist.github.com/ynzwtks/604549c4ad18cb1ae0c1456957876756)<br>
 - [指定した範囲の値からなるn個の要素のスライスを列挙する](https://gist.github.com/ynzwtks/2e7d20473b9452da5907f80e316ff978)<br>
@@ -23,10 +28,9 @@
 - [指定した範囲に含まれるbit1の数をカウントする](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
 
 ### Query
-- [index付き区間最大(最小)値取得と更新](https://gist.github.com/ynzwtks/08d5e4b1d410c321749d5c4462303887)<br>
+
 - [2次元累積和のadd(y,x)とrangeSum(y,xの閉開区間)のクロージャーを返す](https://gist.github.com/ynzwtks/f27cc5cc757e53620495abe713fa5f0e)<br>
 - [2次元BITによる累積和](https://gist.github.com/ynzwtks/6991a45382ec8fd1973267ce30a468a8)<br>
-- [更新可能なロリハ](https://gist.github.com/ynzwtks/8cfe266bea7570ab06dc8a777ba9bd42)<br>
 
 ### Geometry
 - [２次元座標のマンハッタン距離の最大値を求める](https://gist.github.com/ynzwtks/0bcb13015a756eb3eebc46b826be612b)<br>
