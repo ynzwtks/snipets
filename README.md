@@ -5,8 +5,20 @@
 - [双対セグメント木(区間更新(or 区間加算)、点取得)](https://gist.github.com/ynzwtks/4eda2432530318f8e591c9b30b2ccd82)<br>
 - [ロリハOnセグメント木(点更新可能)](https://gist.github.com/ynzwtks/8cfe266bea7570ab06dc8a777ba9bd42)<br>
 - [index付きRMQ](https://gist.github.com/ynzwtks/08d5e4b1d410c321749d5c4462303887)<br>
-＃＃#　リスト
-- [双方リストで要素削除、挿入]('https://gist.github.com/ynzwtks/44b6ea7a5ee52df24e85f50cabce15ae)<br>
+
+### Fenwick Tree
+- [2次元累積和のadd(y,x)とrangeSum(y,xの閉開区間)のクロージャーを返す](https://gist.github.com/ynzwtks/f27cc5cc757e53620495abe713fa5f0e)<br>
+- [2次元BITによる累積和](https://gist.github.com/ynzwtks/6991a45382ec8fd1973267ce30a468a8)<br>
+
+### リスト
+- [双方リストで要素削除、挿入](https://gist.github.com/ynzwtks/44b6ea7a5ee52df24e85f50cabce15ae)<br>
+
+## アルゴリズム
+### bit操作
+- [2進数でbitの0と1を指定した数分含む値ついて小さいほうからkth番目の値を求める](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
+- [2進数に変換した各桁について、0の場合はbit0,1の場合はbit1で対応する桁の値に置き換える](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
+- [bitが1位置についてスライスの和を取る](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
+- [指定した範囲に含まれるbit1の数をカウントする](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
 
 ### パターン列挙
 - [nビットのうち、ビット1がk個となる値のパターンを列挙する](https://gist.github.com/ynzwtks/604549c4ad18cb1ae0c1456957876756)<br>
@@ -21,21 +33,10 @@
 - [連続するbitのidxでグルーピングする](https://gist.github.com/ynzwtks/16f42c67e4e84f7493845441260d9981)<br>
 - [連続する区間のグループ分け](https://gist.github.com/ynzwtks/f7d285d81491f95d59603e3898f88a69)<br>
 
-### 分数・整数
-- [分数の比較と加算・減算・乗算](https://gist.github.com/ynzwtks/390a3d4de1ac3b1ae6ee7f2cfb173273)<br>
-
-### bit操作
-- [2進数でbitの0と1を指定した数分含む値ついて小さいほうからkth番目の値を求める](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
-- [2進数に変換した各桁について、0の場合はbit0,1の場合はbit1で対応する桁の値に置き換える](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
-- [bitが1位置についてスライスの和を取る](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
-- [指定した範囲に含まれるbit1の数をカウントする](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
-
-### Query
-
-- [2次元累積和のadd(y,x)とrangeSum(y,xの閉開区間)のクロージャーを返す](https://gist.github.com/ynzwtks/f27cc5cc757e53620495abe713fa5f0e)<br>
-- [2次元BITによる累積和](https://gist.github.com/ynzwtks/6991a45382ec8fd1973267ce30a468a8)<br>
-
+## Math
 ### Geometry
 - [２次元座標のマンハッタン距離の最大値を求める](https://gist.github.com/ynzwtks/0bcb13015a756eb3eebc46b826be612b)<br>
 - [直線上にある区間の交差判定](https://gist.github.com/ynzwtks/17d6ca0c41a03680e22beeae8353c0de)<br>
 
+### 分数・整数
+- [分数の比較と加算・減算・乗算](https://gist.github.com/ynzwtks/390a3d4de1ac3b1ae6ee7f2cfb173273)<br>
