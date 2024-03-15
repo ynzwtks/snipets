@@ -13,6 +13,9 @@
 ### リスト
 - [双方リストで要素削除、挿入](https://gist.github.com/ynzwtks/44b6ea7a5ee52df24e85f50cabce15ae)<br>
 
+### WaveletMatrix
+-[区間のlow以上、high未満の要素数,区間のk番目に大きい(小さい)要素] (https://gist.github.com/ynzwtks/62fc0a68e38cb0e9b9535547c6359cef)<br>
+
 ## アルゴリズム
 ### bit操作
 - [2進数でbitの0と1を指定した数分含む値ついて小さいほうからkth番目の値を求める](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
