@@ -3,15 +3,15 @@
 ### セグメント木
 - [遅延評価セグメント木(区間加算/区間更新の区間和/最小値/最大値)](https://gist.github.com/ynzwtks/a08d8c2ecb71daf4eacf26bf44843922)<br>
 - [双対セグメント木(区間更新(or 区間加算)、点取得)](https://gist.github.com/ynzwtks/4eda2432530318f8e591c9b30b2ccd82)<br>
-- [セグメント木版ローリングハッシュ(MOD 2^61-1)(点更新可能)](https://gist.github.com/ynzwtks/8cfe266bea7570ab06dc8a777ba9bd42)<br>
+- [セグメント木版ローリングハッシュ(MOD 2^61-1)(点更新)](https://gist.github.com/ynzwtks/8cfe266bea7570ab06dc8a777ba9bd42)<br>
 - [index付きRMQ](https://gist.github.com/ynzwtks/08d5e4b1d410c321749d5c4462303887)<br>
 
 ### Fenwick Tree
-- [2次元累積和のadd(y,x)とrangeSum(y,xの閉開区間)のクロージャーを返す](https://gist.github.com/ynzwtks/f27cc5cc757e53620495abe713fa5f0e)<br>
-- [2次元BITによる累積和](https://gist.github.com/ynzwtks/6991a45382ec8fd1973267ce30a468a8)<br>
+- [2次元累積和(imos)](https://gist.github.com/ynzwtks/f27cc5cc757e53620495abe713fa5f0e)<br>
+- [2次元累積和(BIT)](https://gist.github.com/ynzwtks/6991a45382ec8fd1973267ce30a468a8)<br>
 
 ### リスト
-- [双方リストで要素削除、挿入](https://gist.github.com/ynzwtks/44b6ea7a5ee52df24e85f50cabce15ae)<br>
+- [双方リスト(要素削除、挿入)](https://gist.github.com/ynzwtks/44b6ea7a5ee52df24e85f50cabce15ae)<br>
 
 ### WaveletMatrix
 - [区間のlow以上、high未満の要素数,区間のk番目に大きい(小さい)要素](https://gist.github.com/ynzwtks/62fc0a68e38cb0e9b9535547c6359cef)<br>
