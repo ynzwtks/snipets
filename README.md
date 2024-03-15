@@ -16,6 +16,9 @@
 ### WaveletMatrix
 - [区間のlow以上、high未満の要素数,区間のk番目に大きい(小さい)要素](https://gist.github.com/ynzwtks/62fc0a68e38cb0e9b9535547c6359cef)<br>
 
+### Avl Tree
+- [キュー内の要素について昇順または降順でk番目までの和を求める](https://gist.github.com/ynzwtks/9a0792adc0e89d6cf2c14ca847975a2b)<br>
+
 ## アルゴリズム
 ### bit操作
 - [2進数でbitの0と1を指定した数分含む値ついて小さいほうからkth番目の値を求める](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
