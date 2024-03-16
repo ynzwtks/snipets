@@ -3,7 +3,7 @@
 
 ### Priority Queue
  - [ジェネリクスで汎化](https://gist.github.com/ynzwtks/545cad2032f877e87c76672162f56068)<br>
-- [削除可能な優先度付きキュー](https://gist.github.com/ynzwtks/9a0792adc0e89d6cf2c14ca847975a2b)<br>
+- [削除可能な優先度付きキュー](https://gist.github.com/ynzwtks/663a8bc97518d45708c9d7cb31413727)<br>
  
 
 ### セグメント木
