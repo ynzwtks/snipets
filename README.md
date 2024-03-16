@@ -3,6 +3,8 @@
 
 ### Priority Queue
  - [ジェネリクスで汎化](https://gist.github.com/ynzwtks/545cad2032f877e87c76672162f56068)<br>
+- [削除可能な優先度付きキュー](https://gist.github.com/ynzwtks/9a0792adc0e89d6cf2c14ca847975a2b)<br>
+ 
 
 ### セグメント木
 - [遅延評価セグメント木(区間加算/区間更新の区間和/最小値/最大値)](https://gist.github.com/ynzwtks/a08d8c2ecb71daf4eacf26bf44843922)<br>
