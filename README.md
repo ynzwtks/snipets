@@ -1,5 +1,9 @@
 # 競プロ用スニペット集(go)
 ## データ構造
+
+### Priority Queue
+ - [ジェネリクス版](https://gist.github.com/ynzwtks/545cad2032f877e87c76672162f56068)<br>
+
 ### セグメント木
 - [遅延評価セグメント木(区間加算/区間更新の区間和/最小値/最大値)](https://gist.github.com/ynzwtks/a08d8c2ecb71daf4eacf26bf44843922)<br>
 - [双対セグメント木(区間更新(or 区間加算)、点取得)](https://gist.github.com/ynzwtks/4eda2432530318f8e591c9b30b2ccd82)<br>
