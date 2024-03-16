@@ -17,7 +17,7 @@
 - [2次元累積和(BIT)](https://gist.github.com/ynzwtks/6991a45382ec8fd1973267ce30a468a8)<br>
 
 ### リスト
-- [双方リスト(要素削除、挿入)](https://gist.github.com/ynzwtks/44b6ea7a5ee52df24e85f50cabce15ae)<br>
+- [双方向リスト(要素削除、挿入)](https://gist.github.com/ynzwtks/44b6ea7a5ee52df24e85f50cabce15ae)<br>
 - [永続リスト](https://gist.github.com/ynzwtks/93dde62d0ad10a395b3556d5bea47764)<br>
 
 ### WaveletMatrix
