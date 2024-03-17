@@ -28,6 +28,7 @@
 
 ## アルゴリズム
 ### bit操作
+- [AHC用の焼きなまし用bit配列](https://gist.github.com/ynzwtks/d837f199d35da4f44eecb9e420c6b803)<br>
 - [2進数でbitの0と1を指定した数分含む値ついて小さいほうからkth番目の値を求める](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
 - [2進数に変換した各桁について、0の場合はbit0,1の場合はbit1で対応する桁の値に置き換える](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
 - [bitが1位置についてスライスの和を取る](https://gist.github.com/ynzwtks/3cc4de6c3936e26fdddee979d07d80db)<br>
