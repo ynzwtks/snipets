@@ -46,7 +46,7 @@
 - [Pairの片方をキーとしてuniqなPairを抽出する](https://gist.github.com/ynzwtks/7982e0439065455d68ada380c0f4cdf0)<br>
 - [連続するbitのidxでグルーピングする](https://gist.github.com/ynzwtks/16f42c67e4e84f7493845441260d9981)<br>
 - [連続する区間のグループ分け](https://gist.github.com/ynzwtks/f7d285d81491f95d59603e3898f88a69)<br>
-
+- [nCkのイテレーション](https://gist.github.com/ynzwtks/7a9e7c1c44e02a7ef1e281a23ac5e423)<br>
 ## Math
 ### Geometry
 - [２次元座標のマンハッタン距離の最大値を求める](https://gist.github.com/ynzwtks/0bcb13015a756eb3eebc46b826be612b)<br>
