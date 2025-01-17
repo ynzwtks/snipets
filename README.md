@@ -40,13 +40,14 @@
 - [nextPermutation()を呼び出すクロージャーを返す](https://gist.github.com/ynzwtks/33e1ff915ddce3ae8e2c8ee0fec4715b)<br>
 - [n個の要素で合計がsとなるスライスの組み合わせを返す](https://gist.github.com/ynzwtks/05bd5756443345ce7f25af6cf03599a2)<br>
 - [部分列のMod和毎に部分列を指定した個数列挙する](https://gist.github.com/ynzwtks/d88224b3235721524cf9ce2791f37c2c)<br>
+- [nCkのイテレーション](https://gist.github.com/ynzwtks/7a9e7c1c44e02a7ef1e281a23ac5e423)<br>
 
 ### グルーピング
 - [単調増加のスライスで隣合う要素の差がd以下のものをグルーピングし開始/終了位置を返す](https://gist.github.com/ynzwtks/84f2a0b0876f047eb0e99d60d127c6df)<br>
 - [Pairの片方をキーとしてuniqなPairを抽出する](https://gist.github.com/ynzwtks/7982e0439065455d68ada380c0f4cdf0)<br>
 - [連続するbitのidxでグルーピングする](https://gist.github.com/ynzwtks/16f42c67e4e84f7493845441260d9981)<br>
 - [連続する区間のグループ分け](https://gist.github.com/ynzwtks/f7d285d81491f95d59603e3898f88a69)<br>
-- [nCkのイテレーション](https://gist.github.com/ynzwtks/7a9e7c1c44e02a7ef1e281a23ac5e423)<br>
+
 ## Math
 ### Geometry
 - [２次元座標のマンハッタン距離の最大値を求める](https://gist.github.com/ynzwtks/0bcb13015a756eb3eebc46b826be612b)<br>
